@@ -1,5 +1,7 @@
 <?php session_start(); ?>
+
 <?php include 'header.php'; ?>
+
 <body class="hold-transition login-page">
 <div class="login-box">
   	<div class="login-logo">
